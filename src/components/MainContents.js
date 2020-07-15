@@ -8,7 +8,6 @@ function MainContents({page}){
     return (
       <div className="MainContents">
         <img className="mainImg" src={mainImg} alt="mainImg"></img>
-        <div className=
       </div>
     );
     case 'NEW RELEASES':
